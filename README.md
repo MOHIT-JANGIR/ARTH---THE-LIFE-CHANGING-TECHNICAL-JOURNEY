@@ -22,19 +22,19 @@
 # `In the ARTH program, Vimal sir gave lots of tasks to us and I am able to solve those tasks this gives me more happiness and my confidence also starts building.`
 
 # Feb-March
-# ```The IIEC Community Organised a great workshop “Build Artificial Intelligence Enabled Machine to help fight against any pandemic or any disaster”. That workshop is mentored by Mr. Vimal Daga Sir and I learned many things about Machine Learning and How we can test with X-rays to confirm a person is tested positive or negative to covid 19. Great Announcement about the training of MLOps by Vima Daga Sir in the workshop.```
+## ``The IIEC Community Organised a great workshop “Build Artificial Intelligence Enabled Machine to help fight against any pandemic or any disaster”. That workshop is mentored by Mr. Vimal Daga Sir and I learned many things about Machine Learning and How we can test with X-rays to confirm a person is tested positive or negative to covid 19. Great Announcement about the training of MLOps by Vima Daga Sir in the workshop.``
 
 
 # April
 
-# ```Joined MLOps training by Linux World Informatics India under the mentorship of Mr. Vimal Daga, Sir started the training with the moto that One can learn anything in less time with the Right Approach. Sir proved and completed major concepts of Machine Learning. Started with DevOps tools. Learned Git, GitHub, and Jenkins. Integrated Machine Learning with DevOps tools to automatically create an ML Model by Jenkins triggers and Automatic HyperParametes tunning in ML Model. I learned the consistency to learn. I started to learn a new thing every day. I searched in google about DevOps Tools. There are a lot of tools. Joined DevOps Assembly Lines training parallel with MLOps training.```
+## ``Joined MLOps training by Linux World Informatics India under the mentorship of Mr. Vimal Daga, Sir started the training with the moto that One can learn anything in less time with the Right Approach. Sir proved and completed major concepts of Machine Learning. Started with DevOps tools. Learned Git, GitHub, and Jenkins. Integrated Machine Learning with DevOps tools to automatically create an ML Model by Jenkins triggers and Automatic HyperParametes tunning in ML Model. I learned the consistency to learn. I started to learn a new thing every day. I searched in google about DevOps Tools. There are a lot of tools. Joined DevOps Assembly Lines training parallel with MLOps training.``
 
 # May
-# ```Started to learn DevOps Assembly Lines with an aim to know how the companies deliver their software quickly with the DevOps approach. I know Git, GitHub, and Jenkins from MLOps and want to learn some tools. I learned Kubernetes, Maven, and Metrics Monitoring tools like Prometheus and Grafana. I enjoyed when learning monitoring tools and Grafana supports great visuals and they are good to see. Kubernetes is to orchestrate or to manage containers in a huge infrastructure. Solving the challenging tasks given in training is super awesome```
+## ``Started to learn DevOps Assembly Lines with an aim to know how the companies deliver their software quickly with the DevOps approach. I know Git, GitHub, and Jenkins from MLOps and want to learn some tools. I learned Kubernetes, Maven, and Metrics Monitoring tools like Prometheus and Grafana. I enjoyed when learning monitoring tools and Grafana supports great visuals and they are good to see. Kubernetes is to orchestrate or to manage containers in a huge infrastructure. Solving the challenging tasks given in training is super awesome``
 
 # June
-```After metrics Monitoring tools, I learned Log Monitoring tools, ELK Stack - Elastic Search, Logstash, and the Kibana. Created Data Pipeline with ELK Stack. I didn’t feel any difficulty understanding these tools. There is a myth about advanced concepts and tools as harder learn. but Sir proved that is wrong. When teaching these advanced tools. I didn't felt any difficulties understanding. Integrated all the tools I learned in DevOps Assembly Lines and create a pipeline of all of these tools and automated everything from developer to production and automated testing with unit testing.```
-# ```Learned to do Self Reflection and It will help one to grow day by day. We at Linux World Used to do Self Reflection every day and share what we learn on social media platforms like LinkedIn and that helped to connect with people who are working professionals.```
+## ``After metrics Monitoring tools, I learned Log Monitoring tools, ELK Stack - Elastic Search, Logstash, and the Kibana. Created Data Pipeline with ELK Stack. I didn’t feel any difficulty understanding these tools. There is a myth about advanced concepts and tools as harder learn. but Sir proved that is wrong. When teaching these advanced tools. I didn't felt any difficulties understanding. Integrated all the tools I learned in DevOps Assembly Lines and create a pipeline of all of these tools and automated everything from developer to production and automated testing with unit testing.``
+##  ``Learned to do Self Reflection and It will help one to grow day by day. We at Linux World Used to do Self Reflection every day and share what we learn on social media platforms like LinkedIn and that helped to connect with people who are working professionals
 
 # July
 # ``It’s time to power the infrastructure and the tools I learned with cloud computing. Joined Hybrid Multi-Cloud Computing by Linux World . Learned Amazon Web Services. Learned to provision the AWS resources with Terraform. Learned the private cloud platform OpenStack. As Technical Guys, we can’t solve custom use cases with any Public cloud ad They abstract the things how cloud actually works. Vimal Daga Sir proved every statement he spoke when he taught the AWS with OpenStack cloud. Learned OpenStack to that level I can solve some special use cases. Learned to provision resources on OpenStack cloud with Terraform. Learned Kubernetes which is the Platform As A Service and provisioned resources with Terraform. Leaned Elastic Kubernetes As A Service which is the managed Kubernetes as a service from AWS in a Workshop by Linux World``
@@ -45,10 +45,10 @@
 ## Learned how to do Market Research about an Idea and learned how to present a startup Idea effectively from Preeti Chandak Ma’am. Worked on a startup Idea and had multiple Brain Storming Sessions about the Idea and It was a really great Experience listening to all the ideas from my friends who are learning Flutter with me. This is the major step to learn to think like a creator and validate the Idea we have with us.
 
 # September
-## Joined the Specialist in Python training from Indian Innovation and Entrepreneurship community. Learned to create an API with CGI. Learned about NumPy and Pandas in detail.
+## Joined the ``Specialist in Python training from Indian Innovation and Entrepreneurship community``. Learned to create an API with CGI. Learned about NumPy and Pandas in detail.
 ## Heard the Great Talk from Mr. Vimal Daga Sir about ARTH - The School of Technologies. The most awaited Announcement about ARTH.
 
-# ARTH — The School of Technologies is an 8 to 10 months technical learning program.
+# ***ARTH — The School of Technologies is an 8 to 10 months technical learning program.***
 
 # -->> On September 14, The Life-Changing Technical Journey Started. I learn Hadoop to solve the BigData Challenge. Learned Internals about Hadoop and capture network packets with tcpdump to prove the theory about Hadoop. Started with the AWS CSA track. I was grown from taking help to help someone. I selected as a Technical Volunteer to help my friends
 
@@ -92,7 +92,7 @@ Completed the 30 Days of Google Cloud Platform Challenge and completed Cloud Eng
 
 ## *Since the arth journey started my first and foremost goal has been to grasp all the knowledge that vimal sir is giving to us all. Secondly after gathering all the knowledge i am aiming to be not just a worker but also a creator of some tool which will be used in the industry. I would also like to inculcate all the ideals and principles that vimal sir is giving to us. I would like to thank all the LSH and the volunteers who are helping us all in this great initiative.*
 
-# I have just completed around four months and i learnt that much knowledge that my entire 4 year of college can't teach me.
+# **I have just completed around four months and i learnt that much knowledge that my entire 4 year of college can't teach me.**
 
 # ```When I was not connected with Linux world, I had mindset of only getting a job but not in a product based company as I was not good in technical field. But now after connecting with Linux world and Vimal Sir I actually want to be selected in product based company, I want to explore different Technologies, want create something which will help the world specially India.```
 
