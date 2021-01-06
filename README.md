@@ -94,10 +94,10 @@
 
 # **I have just completed around four months and i learnt that much knowledge that my entire 4 year of college can't teach me.**
 
-# ```When I was not connected with Linux world, I had mindset of only getting a job but not in a product based company as I was not good in technical field. But now after connecting with Linux world and Vimal Sir I actually want to be selected in product based company, I want to explore different Technologies, want create something which will help the world specially India.```
+# When I was not connected with Linux world, I had mindset of only getting a job but not in a product based company as I was not good in technical field. But now after connecting with Linux world and Vimal Sir I actually want to be selected in product based company, I want to explore different Technologies, want create something which will help the world specially India.
 
 # ``I want to thank Vimal Sir for giving daily Inspiration and giving such a great Knowledge which I don't think that I could get from any other teachers.``
-#  `Thank you 🙏....`
+#  Thank you 🙏....
 
 ![image](https://user-images.githubusercontent.com/61896468/103744895-8ed06980-5024-11eb-8d7e-ca04c6cb8d0a.png)
  
