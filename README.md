@@ -3,17 +3,17 @@
 
 # Hey guys,
 
-## ``Just wanted to share something with you guys and I probably don’t know how to give proper shape to my words but in one word “Thankyou“. To whom you may ask, it’s too my mentor and teacher Mr. Vimal Daga. I still remember, at the start of Arth, sir asked us to make a video telling about what we know, the skills we have and that task was just a beginning of our technical journey...``
+## **Just wanted to share something with you guys and I probably don’t know how to give proper shape to my words but in one word “Thankyou“. To whom you may ask, it’s too my mentor and teacher Mr. Vimal Daga. I still remember, at the start of Arth, sir asked us to make a video telling about what we know, the skills we have and that task was just a beginning of our technical journey...**
 
 ## `I learnt that only learning programming languages will not help in any way because it is something like this i am focussing on a glass of water out of whole ocean ,till the we don't know how to integrate all the technologies to solve a real industry problems because one technology is just a single part of that project/use-case and for less time and space complexity and for achieving end-to-end automation ,it is required to integrate all the required parts/technologies...`
 
-## I learnt that only learning coding won't help till the time we are exposed to some life lessions like keep sharing our knowledge, take own and others responsibility and many more.
+## ```I learnt that only learning coding won't help till the time we are exposed to some life lessions like keep sharing our knowledge, take own and others responsibility and many more.```
 
 ## I started my journey with ARTH on 12th Sep, 2020. WHEN I WAS YOUNG I USED TO THINK THAT, IF ONE TEACHER CAN’T TEACH US ALL SUBJECTS THEN HOW ONE STUDENT CAN LEARN ALL SUBJECTS?
 
-## But when i started my journey with ARTH then i got my answer. Because vimal sir give me right education. and vimal sir told me that all technology is created by human so we can learn every technology. 
+## -->> But when i started my journey with ARTH then i got my answer. Because vimal sir give me right education. and vimal sir told me that all technology is created by human so we can learn every technology. 
 
-## I not only gained lots of technical knowledge but I am able to build my self confidence that yes, I can do something different.. and also I tried and trying to overcome my fears like I had fear to write blogs and posts. But now by doing tasks and other stuff, I am creating my own blogs and this is my first blog in which I am expressing my love towards whole LinuxWorld Informatics Pvt Ltd family...
+## *I not only gained lots of technical knowledge but I am able to build my self confidence that yes, I can do something different.. and also I tried and trying to overcome my fears like I had fear to write blogs and posts. But now by doing tasks and other stuff, I am creating my own blogs and this is my first blog in which I am expressing my love towards whole LinuxWorld Informatics Pvt Ltd family...*
 
 ## *Today, on successful completion of knowledgeable sessions delivered in each lecture of ARTH - The School of Technologies by Vimal Sir. I have reached to a phase of life where I feel the videos which were been watched by me of Vimal sir telling and guiding about the technology, learning values are imbibe in my personality too, Today I feel more confident, strongly cleared with of correct knowledge to portrait and speak up on any of my learnt technology with perspective of a Right learner.*
 
