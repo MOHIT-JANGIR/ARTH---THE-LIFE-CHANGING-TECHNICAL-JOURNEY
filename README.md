@@ -21,6 +21,7 @@ I am very blessed to have such a great mentor like Vimal Daga sir. The way he te
 
 In the ARTH program, Vimal sir gave lots of tasks to us and I am able to solve those tasks this gives me more happiness and my confidence also starts building.
 
+Feb-March
 The IIEC Community Organised a great workshop “Build Artificial Intelligence Enabled Machine to help fight against any pandemic or any disaster”. That workshop is mentored by Mr. Vimal Daga Sir and I learned many things about Machine Learning and How we can test with X-rays to confirm a person is tested positive or negative to covid 19. Great Announcement about the training of MLOps by Vima Daga Sir in the workshop.
 
 April
@@ -74,7 +75,6 @@ Take the Responsibility of Other
 I learned these Two should have qualities from Mr. Vimal Daga sir and Mrs. Preeti Chandak Ma’am. I can't do anything just one thing...
 Thank you Sir and Ma’am from my bottom of Heart for Making the Best Version of Me, that I am today.
 
-![image](https://user-images.githubusercontent.com/61896468/103744895-8ed06980-5024-11eb-8d7e-ca04c6cb8d0a.png)
 
 During ARTH period Vimal Sir giving us a great gift to introduce a great persons in this industry , those are very high profile in our industry world .Those name are SREEJITH ANUJAN ( Principle Instructor Redhat) and ARJUN EAPEN ( Director - APAC , Service Delivery, GLS Redhat Asia Pacific ) .
 
@@ -90,6 +90,8 @@ Achivements comes from rightpath and right education and from right teacher like
 Linux World Technical Volunteer is great supporter/helper to us , they give us basic to basic information to all participants who have any doubt.
 
 I have just completed around four months and i learnt that much knowledge that my entire 4 year of college can't teach me.
+
+![image](https://user-images.githubusercontent.com/61896468/103744895-8ed06980-5024-11eb-8d7e-ca04c6cb8d0a.png)
 
 Thank you so much Vimal sir for giving us right knowledge ,right concept ,and showing us the right path. Thankyou for always being kind .Thankyou for making lessons fun . Thankyou for showing me new things. And thanks a lot for helping me grow. Ill wait for that day when ill get a chance to meet u.
 
