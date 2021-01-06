@@ -22,7 +22,7 @@
 # `In the ARTH program, Vimal sir gave lots of tasks to us and I am able to solve those tasks this gives me more happiness and my confidence also starts building.`
 
 # Feb-March
-## ``The IIEC Community Organised a great workshop “Build Artificial Intelligence Enabled Machine to help fight against any pandemic or any disaster”. That workshop is mentored by Mr. Vimal Daga Sir and I learned many things about Machine Learning and How we can test with X-rays to confirm a person is tested positive or negative to covid 19. Great Announcement about the training of MLOps by Vima Daga Sir in the workshop.``
+## The IIEC Community Organised a great workshop “Build Artificial Intelligence Enabled Machine to help fight against any pandemic or any disaster”. That workshop is mentored by Mr. Vimal Daga Sir and I learned many things about Machine Learning and How we can test with X-rays to confirm a person is tested positive or negative to covid 19. Great Announcement about the training of MLOps by Vima Daga Sir in the workshop.
 
 
 # April
@@ -30,14 +30,14 @@
 ## ``Joined MLOps training by Linux World Informatics India under the mentorship of Mr. Vimal Daga, Sir started the training with the moto that One can learn anything in less time with the Right Approach. Sir proved and completed major concepts of Machine Learning. Started with DevOps tools. Learned Git, GitHub, and Jenkins. Integrated Machine Learning with DevOps tools to automatically create an ML Model by Jenkins triggers and Automatic HyperParametes tunning in ML Model. I learned the consistency to learn. I started to learn a new thing every day. I searched in google about DevOps Tools. There are a lot of tools. Joined DevOps Assembly Lines training parallel with MLOps training.``
 
 # May
-## ``Started to learn DevOps Assembly Lines with an aim to know how the companies deliver their software quickly with the DevOps approach. I know Git, GitHub, and Jenkins from MLOps and want to learn some tools. I learned Kubernetes, Maven, and Metrics Monitoring tools like Prometheus and Grafana. I enjoyed when learning monitoring tools and Grafana supports great visuals and they are good to see. Kubernetes is to orchestrate or to manage containers in a huge infrastructure. Solving the challenging tasks given in training is super awesome``
+## ****Started to learn DevOps Assembly Lines with an aim to know how the companies deliver their software quickly with the DevOps approach. I know Git, GitHub, and Jenkins from MLOps and want to learn some tools. I learned Kubernetes, Maven, and Metrics Monitoring tools like Prometheus and Grafana. I enjoyed when learning monitoring tools and Grafana supports great visuals and they are good to see. Kubernetes is to orchestrate or to manage containers in a huge infrastructure. Solving the challenging tasks given in training is super awesome****
 
 # June
 ## ``After metrics Monitoring tools, I learned Log Monitoring tools, ELK Stack - Elastic Search, Logstash, and the Kibana. Created Data Pipeline with ELK Stack. I didn’t feel any difficulty understanding these tools. There is a myth about advanced concepts and tools as harder learn. but Sir proved that is wrong. When teaching these advanced tools. I didn't felt any difficulties understanding. Integrated all the tools I learned in DevOps Assembly Lines and create a pipeline of all of these tools and automated everything from developer to production and automated testing with unit testing.``
-##  ``Learned to do Self Reflection and It will help one to grow day by day. We at Linux World Used to do Self Reflection every day and share what we learn on social media platforms like LinkedIn and that helped to connect with people who are working professionals
+## Learned to do Self Reflection and It will help one to grow day by day. We at Linux World Used to do Self Reflection every day and share what we learn on social media platforms like LinkedIn and that helped to connect with people who are working professionals
 
 # July
-# ``It’s time to power the infrastructure and the tools I learned with cloud computing. Joined Hybrid Multi-Cloud Computing by Linux World . Learned Amazon Web Services. Learned to provision the AWS resources with Terraform. Learned the private cloud platform OpenStack. As Technical Guys, we can’t solve custom use cases with any Public cloud ad They abstract the things how cloud actually works. Vimal Daga Sir proved every statement he spoke when he taught the AWS with OpenStack cloud. Learned OpenStack to that level I can solve some special use cases. Learned to provision resources on OpenStack cloud with Terraform. Learned Kubernetes which is the Platform As A Service and provisioned resources with Terraform. Leaned Elastic Kubernetes As A Service which is the managed Kubernetes as a service from AWS in a Workshop by Linux World``
+# It’s time to power the infrastructure and the tools I learned with cloud computing. Joined Hybrid Multi-Cloud Computing by Linux World . Learned Amazon Web Services. Learned to provision the AWS resources with Terraform. Learned the private cloud platform OpenStack. As Technical Guys, we can’t solve custom use cases with any Public cloud ad They abstract the things how cloud actually works. Vimal Daga Sir proved every statement he spoke when he taught the AWS with OpenStack cloud. Learned OpenStack to that level I can solve some special use cases. Learned to provision resources on OpenStack cloud with Terraform. Learned Kubernetes which is the Platform As A Service and provisioned resources with Terraform. Leaned Elastic Kubernetes As A Service which is the managed Kubernetes as a service from AWS in a Workshop by Linux World
 # ``Created Hybrid setup of Platform As A Service and Infrastructure As A Service with Kubernetes on top of Multiple Cloud Platform [ Public Cloud and Private Cloud ]``
 
 # August
@@ -56,17 +56,17 @@
 
 
 # October
-## Implemented some Data Structures and Algorithms on Hadoop. I know Data Structures Previous but I did a dedicative course but don’t know where to use implement the Data Structures to solve some use cases. DSA is an approach to solve a particular problem. Learned multiple things like Hadoop, DSA, and Docker in Parallel. I learned a different approach to learning the DSA with Python Notebook Magic Functions
+## **Implemented some Data Structures and Algorithms on Hadoop. I know Data Structures Previous but I did a dedicative course but don’t know where to use implement the Data Structures to solve some use cases. DSA is an approach to solve a particular problem. Learned multiple things like Hadoop, DSA, and Docker in Parallel. I learned a different approach to learning the DSA with Python Notebook Magic Functions**
 ## The month of OpenSourc — Hactoberfest 😍. Participated in multiple Opensource Events and Learn to contribute to OpenSource. I just didn’t make any PR but I learned to do PR.
 
 # November
-## Continue to learn Hadoop, DSA, Docker, Machine Learning, Ansible, and AWS CSA on Weekends. Learned to implement some DSA on Hadoop.Configured Hadoop with Ansible
-Completed the 30 Days of Google Cloud Platform Challenge and completed Cloud Engineering and Data Science and Machine Learning Tracks. I learned GCP in the Two Days workshop by Linux World, that knowledge is enough to complete these two tracks.
+## -->> Continue to learn Hadoop, DSA, Docker, Machine Learning, Ansible, and AWS CSA on Weekends. Learned to implement some DSA on Hadoop.Configured Hadoop with Ansible
+### Completed the 30 Days of Google Cloud Platform Challenge and completed Cloud Engineering and Data Science and Machine Learning Tracks. I learned GCP in the Two Days workshop by Linux World, that knowledge is enough to complete these two tracks.
 
 # December
 ## Fourth Month of ARTH — The School of Technologies. Completed multiple tasks related to Hadoop, DSA, Docker, Machine Learning, and AWSCSA. Started with the Data Analytics part from DataScience. Learned a lot about Networking and how packets route to reach the client from server and vise versa. Learned the advanced concepts of Ansible.
 
-# Finally, I am on the Last Day of the year 2020. Writing my story to prove that a college student or fresher can do great with the Right Education and Right Mentor like Vimal Daga Sir
+# -->> Finally, I am on the Last Day of the year 2020. Writing my story to prove that a college student or fresher can do great with the Right Education and Right Mentor like Vimal Daga Sir
 
 # ```1) Two things highly motivated me to do this Learning seamlessly```
 # ```2) Share the things you Learn```
