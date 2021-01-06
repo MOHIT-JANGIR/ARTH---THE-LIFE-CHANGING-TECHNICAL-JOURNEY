@@ -107,4 +107,6 @@
 
 # Special thanks to Preeti Daga ma'am and LW team for providing me opportunity to attend some of the greatest webinars and sessions that helped me to think ahead to the future.
 
+![image](https://user-images.githubusercontent.com/61896468/103755401-cabefb00-5033-11eb-87f8-7e5019328fd3.png)
+
 ![image](https://user-images.githubusercontent.com/61896468/103752549-d7d9eb00-502f-11eb-890a-a2f59b439605.png)
