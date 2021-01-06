@@ -92,7 +92,7 @@ Linux World Technical Volunteer is great supporter/helper to us , they give us b
 I have just completed around four months and i learnt that much knowledge that my entire 4 year of college can't teach me.
 
 ![image](https://user-images.githubusercontent.com/61896468/103744895-8ed06980-5024-11eb-8d7e-ca04c6cb8d0a.png)
-
+ 
 Thank you so much Vimal sir for giving us right knowledge ,right concept ,and showing us the right path. Thankyou for always being kind .Thankyou for making lessons fun . Thankyou for showing me new things. And thanks a lot for helping me grow. Ill wait for that day when ill get a chance to meet u.
 
 Special thanks to Preeti Daga ma'am and LW team for providing me opportunity to attend some of the greatest webinars and sessions that helped me to think ahead to the future.
